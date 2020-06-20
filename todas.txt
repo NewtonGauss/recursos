@@ -1,0 +1,232 @@
+Angular testing
+documentacion de testeo en angular
+https://angular.io/guide/testing
+angular, testing
+Ng test
+documentacion de angular cli para el comando ng test
+https://github.com/angular/angular-cli/wiki/test
+angular, testing
+Ng e2e
+documentacion de angular cli para el comando ng e2e que corre pruebas end-to-end
+https://github.com/angular/angular-cli/wiki/e2e
+angular, testing
+Angular & Jasmine
+testeo de componentes en angular usando jasmine
+https://semaphoreci.com/community/tutorials/testing-components-in-angular-2-with-jasmine
+angular, testing
+Keyboard shortcuts en angular
+atajos de teclado en angular
+https://netbasal.com/diy-keyboard-shortcuts-in-your-angular-application-4704734547a2
+angular, atajos
+Frontentd developers handbook
+libro online de desarrollo frontend de FrontendMasters, edición 2019. Cuenta con información sobre como funcionan las tecnologías web y sobre los distintos frameworks que se utilizan. Además cuenta con una lista de herramientas a utilizar
+https://frontendmasters.com/books/front-end-handbook/2019/
+frontend, libros
+FreeCodeCamp
+una pagina con contenido educativo sobre las tecnologías web como NodeJs, Javascript, HTML, CSS. Tienen unos cuantos "cursos" que van desde lenguajes hasta distintas bibliotecas como Sass, JQuery o Bootstrap
+https://www.freecodecamp.org/learn
+frontend, cursos, javascript, jquery, html, css
+WebSocket
+protocolo de socket utilizado en Javascript con ejemplos de uso
+https://javascript.info/websocket
+javascript, socket
+Tutoriales MDN
+tutoriales de frontend de Mozilla. Se trata de algunos tutoriales originales de Mozilla y de otros tutoriales de otras páginas
+https://developer.mozilla.org/es/docs/Web/Tutoriales
+frontend, cursos, javascript, html, css
+Promises - AwesomeList
+una awesomeList de `Promise` en javascript
+https://github.com/wbinnssmith/awesome-promises#readme
+javascript
+Patrones de diseño en Javascript
+un libro online de patrones de diseño para javascript
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+javascript, libros
+CSS Guidelines
+libro/página que explica contenido intermedio de CSS en un estilo más cercano a los manuales de programación (en vez de estar basado puramente en el diseño)
+https://cssguidelin.es/
+css
+Dockerize de Angular
+crear una imagen de docker para una webApp hecha en Angular compilada dentro del docker. Finalmente explica como ponerlo como paquete de github
+https://medium.com/better-programming/7-steps-to-dockerize-your-angular-9-app-with-nginx-915f0f5acac
+angular, docker, deploy
+Upload files
+el típico "seleccionar archivo" de las páginas web hecho en angular
+https://nehalist.io/uploading-files-in-angular2/
+angular
+Code is not literature
+sobre la lectura de código tan solo por el hecho de leer código. Según Knuth una actividad interesante para ejercitar la mente a la hora de resolver problemas. ¿Por qué esto?¿Para aprender cómo codificar?¿Para aprender buenas prácticas con el ejemplo? La respuesta es: no, para resolver el problema de leer código e intentar entender las ideas detrás del mismo. La experiencia de Knuth es interesante, no leía código de un lenguaje que conocía, sino que estaba leyendo código de un lenguaje que desconocía y que estaba mal documentado. El logro de esto fue desencriptar el mensaje que este código traía, usando viejas experiencias. Cabe destacar que se trataba de un lenguaje assembly, por lo que la tarea era realmente complicada. Hoy día, leer un lenguaje de programación que no te es conocido no trae necesariamente tantos problemas, debido a que la mayoría se mantiene en el estándar
+http://www.gigamonkeys.com/code-reading/
+articulos
+The programming game you never asked for
+sobre la ayuda de los juegos a la hora de aprender a programar (y aprender cualquier cosa)
+https://blog.codinghorror.com/heres-the-programming-game-you-never-asked-for/
+articulos
+Falsehoods programmers believe
+una lista larguisima sobre cosas que los programadores dan por cierta a la hora de programar. Está bueno para tener en cuenta a la hora de programar una aplicación que será entregada a un público bastante grande (tiene consideraciones sobre fechas, horas, nombres, caracteres, etcétera)
+https://infiniteundo.com/post/51738287671/falsehoods-programmers-believe-about-programming
+articulos
+Doing terrible things to your code
+habla sobre por qué el programador tiene que usar su programa como si fuera su enemigo mortal. Hacer mierda el programa con el motivo de encontrar todos los posibles bugs
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+articulos
+Our programs are fun to use
+sobre hacer programas divertidos y sobre recordar que la programación se tiene que tomar como un divertimento y no como una tarea
+https://blog.codinghorror.com/our-programs-are-fun-to-use/
+articulos
+AwesomeList
+una lista de listas repletas de información de cualquier tema informático
+https://github.com/sindresorhus/awesome
+recursos
+Cursos de Harvard
+cursos de la universidad de Harvard sobre temas de informática
+https://online-learning.harvard.edu/subject/computer-science
+cursos
+WikiBooks computación
+colección libre de libros (manuales, libros de texto) de informática
+https://en.m.wikibooks.org/wiki/Department:Computing
+libros
+Lista de recursos de aprendizaje
+una lista muy completa de libros, cursos y podcasts de programación en muchos idiomas distintos
+https://github.com/EbookFoundation/free-programming-books
+libros, cursos, recursos
+IT eBooks
+página con un montón de libros de informática con uso autorizado de lectura personal
+https://it-ebooks.info/
+libros
+Programming in the 21 century
+blog que ya no sube nuevo contenido cuenta con un archivo muy extenso. Habla de programación de videojuegos y tiene artículos con opiniones interesantes. No tiene contenido de programación orientada a objetos, sino que lo interesante es ver como resuelve los problemas con otros paradigmas
+https://prog21.dadgum.com/
+sitios
+CodingHorror
+blog del cofundador de stackoverflow. Tiene artículos amenos que hablan del lado menos técnico de la programación
+https://blog.codinghorror.com/
+sitios
+CodeRanch
+foros de programación en general. Tiene subforos para cada área de la programación y para cada lenguaje
+https://coderanch.com/
+sitios
+Learn LaTeX
+pequeño curso de latex
+https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+latex, cursos
+Setup de vim, pandoc y make
+un articulo sobre como escribir un libro con markdown, pandoc, usando vim como editor de texto y compilandolo con make
+https://keleshev.com/my-book-writing-setup/
+articulos, vim
+Comparación de editores de latex
+una comparación de varios editores de latex hecha en wikipedia con unas 3 o 4 tablas
+https://en.wikipedia.org/wiki/Comparison_of_TeX_editors
+latex
+Doxygen
+software que genera documentación desde código fuente
+https://www.doxygen.nl/index.html
+documentacion
+Tutoriales de SDL
+tutoriales de SDL, una biblioteca de gráficos para C++ para varias plataformas
+http://lazyfoo.net/SDL_tutorials/lesson01/index.php
+game dev, graficos, c y cpp
+Learn OpenGL
+curso de OpenGL en C++ que va desde lo básico hasta temas avanzados. Tiene un diseño muy amigable
+https://learnopengl.com/Introduction
+game dev, graficos, c y cpp
+OpenGL programming guide
+pagina/libro online (no muy amigable) exageradamente completa sobre la programación de gráficos en C/C++ con OpenGL
+http://www.glprogramming.com/red/about.html
+game dev, graficos, c y cpp
+C++ game development - Siddharth Shekar
+libro sobre desarrollo de juegos en C++ y sobre el desarrollo de un motor de juegos utilizando SFML y OpenGL para los gráficos
+https://www.amazon.com/Game-Development-Example-graphics-programming/dp/1789535301/khongroup-20
+game dev, graficos, c y cpp, libros
+Patrones de diseño en C
+libro escrito por Adam Tornhill
+https://leanpub.com/patternsinc
+c y cpp, libros
+Reseñas de libros técnicos
+reseñas de libros técnicos por  Adam Tornhill. Puede ser útil para encontrar algún librito desconocido
+https://www.adamtornhill.com/bookreviews.htm
+libros
+Opciones GCC
+opciones para la herramienta de línea de comandos GCC
+http://tigcc.ticalc.org/doc/comopts.html
+c y cpp, unix
+Quick guide GDB
+guía para usar gdb en la línea de comandos
+https://beej.us/guide/bggdb/
+c y cpp, unix
+Network Programming in C
+socket Programming en C
+https://beej.us/guide/bgnet/
+c y cpp, unix, socket, libros
+Unix Interprocess Comunication
+guía de comunicación IPC en Unix
+https://beej.us/guide/bgipc/
+c y cpp, unix, libros
+Beejs Bit Bucket
+blog sobre programación. Tiene contenido relacionado al internet y las tecnologías web. El autor o la autora (no lo sé) escribió sobre programación en C, sobre programación en UNIX y sobre programación socket
+http://beej.us/blog/
+sitios
+Nand to Tetris
+curso que va desde assembler hasta llegar a tener un tetris andando
+https://www.nand2tetris.org/
+cursos, assembler, game dev
+Javascript y Vim
+integración de Javascript en Vim usando Prettier, ESLint, CTags y FZF
+https://freshman.tech/vim-javascript/
+javascript, vim
+CTags Javascript
+configurar ctags para usarlo en javascript
+https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1
+javascript, vim
+Vimspector
+sistema de depuración para Vim que es exageradamente bueno. Simula un IDE
+https://github.com/puremourning/vimspector
+vim
+Context
+plugin de Vim que muestra en pantalla tan solo la información útil para programar en un determinado contexto
+https://github.com/wellle/context.vim
+vim
+Google Drive y Unix
+como descargar archivos pesados de Google Drive usando un CLI
+https://webapps.stackexchange.com/questions/91157/how-can-i-download-a-huge-folder-from-google-drive
+unix
+The Art of Unix Programming - Eric S. Raymond
+libro sobre programación en UNIX
+https://nakamotoinstitute.org/static/docs/taoup.pdf
+libros, unix, c y cpp
+OSDev
+wiki dedicada al desarrollo de sistemas operativos. Más de 650 artículos
+https://wiki.osdev.org/Main_Page
+sistemas operativos, c y cpp, assembler
+OS-Tutorial
+tutorial sobre como construir un sistema operativo simple desde cero. La explicación se da mediante distintos READMEs de github
+https://github.com/cfenollosa/os-tutorial
+sistemas operativos, c y cpp, assembler
+Little Book
+libro sobre el desarrollo de un sistema operativo
+https://littleosbook.github.io/
+sistemas operativos, c y cpp, assembler, libros
+Principios de lenguajes de programación
+libro online sobre teoría de lenguajes de programación. Dice que "there is no text that covers the material in the same way I am covering it"
+https://felleisen.org/matthias/4400-s20/lectures.html
+compiladores
+Dragon Book
+libro de principios, técnicas y herramientas para entender y construir compiladores. Escrito por Aho (conocido por su libro de algoritmos en C++), Lam, Sethi y Ullman
+https://www.amazon.com/dp/0321486811
+compiladores
+Programación Bluetooth
+programación Bluetooth en python y en C
+https://people.csail.mit.edu/albert/bluez-intro/index.html
+python, c y cpp, libros
+Automate the boring stuff with Python
+libro sobre programación básica en python dedicada a realizar automatizaciones de tareas como trabajar con expresiones regulares, archivos xls, doc o pdf, organización de archivos, manipulación de imágenes o web scraping
+https://automatetheboringstuff.com/
+libros, python
+Haskell para programadores C
+guía de Haskell enfocada para programadores con conocimiento de la programación estructurada
+https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers
+haskell, c y cpp
+Unity MOOC
+MOOC para aprender a programar en Unity
+https://miriadax.net/web/crea-y-publica-un-videojuego-con-unity3d/inicio
+game dev
