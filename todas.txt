@@ -211,7 +211,7 @@ libro online sobre teoría de lenguajes de programación. Dice que "there is no 
 https://felleisen.org/matthias/4400-s20/lectures.html
 compiladores
 Dragon Book
-libro de principios, técnicas y herramientas para entender y construir compiladores. Escrito por Aho (conocido por su libro de algoritmos en C++), Lam, Sethi y Ullman
+libro de principios, técnicas y herramientas para entender y construir compiladores. Escrito por Aho (conocido por su libro de algoritmos en C++ y por el lenguaje AWK), Lam, Sethi y Ullman
 https://www.amazon.com/dp/0321486811
 compiladores
 Programación Bluetooth
@@ -230,3 +230,55 @@ Unity MOOC
 MOOC para aprender a programar en Unity
 https://miriadax.net/web/crea-y-publica-un-videojuego-con-unity3d/inicio
 game dev
+JSDoc
+Generador de documentación para JavasCript
+https://jsdoc.app/
+documentacion, javascript
+The Unix Programming Enviroment
+libro icónico sobre la programación en el sistema operativo UNIX y su filosofía, de buen uso para aprender pedacitos de C relativamente avanzado. Escrito por Brian Kernighan y Rob Pike
+https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X
+unix, c y cpp, libros
+You don't know JS yet
+libro online gratuito hosteado en github sobre la programación en javascript para gente que ya sabe algo de programación. Se enfoca en los mecanismos internos de javascript (pega un pequeño repaso de lo básico)
+https://github.com/getify/You-Dont-Know-JS
+javascript, libros
+Setjmp
+una forma interesante de tratar los errores en C, es decir, una especie de mecanismo de manejador de excepciones
+https://en.wikipedia.org/wiki/Setjmp.h
+datos, c y cpp
+Splint
+un linter de C que permite chequear problemas de seguridad y errores de programación antes de compilar.
+http://splint.org/
+datos, c y cpp, unix
+Extending Python
+como extender python usando C o C++ para lograr una mejor performance en algunos procesos
+https://docs.python.org/3/extending/index.html#extending-index
+c y cpp, python
+Advanced programming in the UNIX environment
+libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas
+http://www.kohala.com/start/apue.html
+unix, c y cpp, libros
+UNIX network programming 1
+programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens
+http://www.kohala.com/start/unpv12e.html
+unix, c y cpp, libros
+UNIX network programming 2
+segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX
+http://www.kohala.com/start/unpv22e/unpv22e.html
+unix, c y cpp, libros
+10 mandamientos para la programación en C
+10 puntos sobre la programación en C y buenas prácticas a seguir
+http://www.lysator.liu.se/c/ten-commandments.html
+c y cpp
+LEX y YACC
+página con mucho material referido al armado de parsers y compiladores
+http://dinosaur.compilertools.net/
+compiladores, c y cpp
+C interfaces and implementation
+libro que habla sobre arquitectura y software reutilizable en el lenguaje de C. Escirto por Hanson
+https://sites.google.com/site/cinterfacesimplementations/
+c y cpp
+C FAQ
+preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador
+http://c-faq.com/
+c y cpp, datos

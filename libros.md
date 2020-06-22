@@ -14,3 +14,8 @@
 - [Little Book](https://littleosbook.github.io/): libro sobre el desarrollo de un sistema operativo.
 - [Programación Bluetooth](https://people.csail.mit.edu/albert/bluez-intro/index.html): programación Bluetooth en python y en C.
 - [Automate the boring stuff with Python](https://automatetheboringstuff.com/): libro sobre programación básica en python dedicada a realizar automatizaciones de tareas como trabajar con expresiones regulares, archivos xls, doc o pdf, organización de archivos, manipulación de imágenes o web scraping.
+- [The Unix Programming Enviroment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X): libro icónico sobre la programación en el sistema operativo UNIX y su filosofía, de buen uso para aprender pedacitos de C relativamente avanzado. Escrito por Brian Kernighan y Rob Pike.
+- [You don't know JS yet](https://github.com/getify/You-Dont-Know-JS): libro online gratuito hosteado en github sobre la programación en javascript para gente que ya sabe algo de programación. Se enfoca en los mecanismos internos de javascript (pega un pequeño repaso de lo básico).
+- [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
+- [UNIX network programming 1](http://www.kohala.com/start/unpv12e.html): programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens.
+- [UNIX network programming 2](http://www.kohala.com/start/unpv22e/unpv22e.html): segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX.

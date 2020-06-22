@@ -15,3 +15,14 @@
 - [Little Book](https://littleosbook.github.io/): libro sobre el desarrollo de un sistema operativo.
 - [Programación Bluetooth](https://people.csail.mit.edu/albert/bluez-intro/index.html): programación Bluetooth en python y en C.
 - [Haskell para programadores C](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers): guía de Haskell enfocada para programadores con conocimiento de la programación estructurada.
+- [The Unix Programming Enviroment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X): libro icónico sobre la programación en el sistema operativo UNIX y su filosofía, de buen uso para aprender pedacitos de C relativamente avanzado. Escrito por Brian Kernighan y Rob Pike.
+- [Setjmp](https://en.wikipedia.org/wiki/Setjmp.h): una forma interesante de tratar los errores en C, es decir, una especie de mecanismo de manejador de excepciones.
+- [Splint](http://splint.org/): un linter de C que permite chequear problemas de seguridad y errores de programación antes de compilar..
+- [Extending Python](https://docs.python.org/3/extending/index.html#extending-index): como extender python usando C o C++ para lograr una mejor performance en algunos procesos.
+- [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
+- [UNIX network programming 1](http://www.kohala.com/start/unpv12e.html): programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens.
+- [UNIX network programming 2](http://www.kohala.com/start/unpv22e/unpv22e.html): segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX.
+- [10 mandamientos para la programación en C](http://www.lysator.liu.se/c/ten-commandments.html): 10 puntos sobre la programación en C y buenas prácticas a seguir.
+- [LEX y YACC](http://dinosaur.compilertools.net/): página con mucho material referido al armado de parsers y compiladores.
+- [C interfaces and implementation](https://sites.google.com/site/cinterfacesimplementations/): libro que habla sobre arquitectura y software reutilizable en el lenguaje de C. Escirto por Hanson.
+- [C FAQ](http://c-faq.com/): preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador.

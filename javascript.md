@@ -7,3 +7,5 @@
 - [Patrones de diseño en Javascript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/): un libro online de patrones de diseño para javascript.
 - [Javascript y Vim](https://freshman.tech/vim-javascript/): integración de Javascript en Vim usando Prettier, ESLint, CTags y FZF.
 - [CTags Javascript](https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1): configurar ctags para usarlo en javascript.
+- [JSDoc](https://jsdoc.app/): Generador de documentación para JavasCript.
+- [You don't know JS yet](https://github.com/getify/You-Dont-Know-JS): libro online gratuito hosteado en github sobre la programación en javascript para gente que ya sabe algo de programación. Se enfoca en los mecanismos internos de javascript (pega un pequeño repaso de lo básico).
