@@ -19,3 +19,4 @@
 - [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
 - [UNIX network programming 1](http://www.kohala.com/start/unpv12e.html): programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens.
 - [UNIX network programming 2](http://www.kohala.com/start/unpv22e/unpv22e.html): segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX.
+- [Pro git](https://git-scm.com/book/en/v2): libro gratuito sobre git que va desde lo básico hasta lo más complejo.

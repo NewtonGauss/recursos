@@ -11,3 +11,5 @@
 - [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
 - [UNIX network programming 1](http://www.kohala.com/start/unpv12e.html): programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens.
 - [UNIX network programming 2](http://www.kohala.com/start/unpv22e/unpv22e.html): segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX.
+- [The art of command line](https://github.com/jlevy/the-art-of-command-line): un markdown que habla de un montón de cosas en la linea de comandos de UNIX traducido a varios idiomas.
+- [Peter Scott's Unix, Linux and X notes](http://peterscott.eu/unix/): unos cuantos artículos sobre scripting, herramientas y entorno UNIX, Linux y X.

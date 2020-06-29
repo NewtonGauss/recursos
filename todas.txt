@@ -41,7 +41,7 @@ javascript
 Patrones de diseño en Javascript
 un libro online de patrones de diseño para javascript
 https://addyosmani.com/resources/essentialjsdesignpatterns/book/
-javascript, libros
+javascript, libros, diseño
 CSS Guidelines
 libro/página que explica contenido intermedio de CSS en un estilo más cercano a los manuales de programación (en vez de estar basado puramente en el diseño)
 https://cssguidelin.es/
@@ -141,7 +141,7 @@ game dev, graficos, c y cpp, libros
 Patrones de diseño en C
 libro escrito por Adam Tornhill
 https://leanpub.com/patternsinc
-c y cpp, libros
+c y cpp, libros, diseño
 Reseñas de libros técnicos
 reseñas de libros técnicos por  Adam Tornhill. Puede ser útil para encontrar algún librito desconocido
 https://www.adamtornhill.com/bookreviews.htm
@@ -282,3 +282,31 @@ C FAQ
 preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador
 http://c-faq.com/
 c y cpp, datos
+The art of command line
+un markdown que habla de un montón de cosas en la linea de comandos de UNIX traducido a varios idiomas
+https://github.com/jlevy/the-art-of-command-line
+unix, bash
+Peter Scott's Unix, Linux and X notes
+unos cuantos artículos sobre scripting, herramientas y entorno UNIX, Linux y X
+http://peterscott.eu/unix/
+unix, bash
+Design Patterns de Sourcemaking
+una guía práctica sobre patrones de diseño con ejemplos simples y recordables
+https://sourcemaking.com/design_patterns
+oop, diseño
+Guía de usuario de JUnit5
+una referencia (o documentación) para escribir tests unitarios de JUnit
+https://junit.org/junit5/docs/current/user-guide/
+java, testing
+Git explorer
+un explorador de comandos de git que permite encontrar muy facilmente los comandos. Para la busqueda te deja elegir "I want to" y provee un montón de opciones a partir de eso. Por ejemplo, "I want to initialize a new repository". Luego te muestra los comandos necesarios para llevar la acción a cabo con unas notas
+https://gitexplorer.com/
+git
+Pro git
+libro gratuito sobre git que va desde lo básico hasta lo más complejo
+https://git-scm.com/book/en/v2
+git, libros
+Maze generation
+artículo sobre distintos algoritmos de generación de mazmorras (o laberintos)
+https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap
+game dev

@@ -1,31 +1,36 @@
 # Indice
 
-- [Angular](angular.md): .
-- [Articulos](articulos.md): .
-- [Assembler](assembler.md): .
-- [Atajos](atajos.md): .
-- [Compiladores](compiladores.md): .
-- [Css](css.md): .
-- [Cursos](cursos.md): .
-- [C y cpp](c_y_cpp.md): .
-- [Datos](datos.md): .
-- [Deploy](deploy.md): .
-- [Docker](docker.md): .
-- [Documentacion](documentacion.md): .
-- [Frontend](frontend.md): .
-- [Game dev](game_dev.md): .
-- [Graficos](graficos.md): .
-- [Haskell](haskell.md): .
-- [Html](html.md): .
-- [Javascript](javascript.md): .
-- [Jquery](jquery.md): .
-- [Latex](latex.md): .
-- [Libros](libros.md): .
-- [Python](python.md): .
-- [Recursos](recursos.md): .
-- [Sistemas operativos](sistemas_operativos.md): .
-- [Sitios](sitios.md): .
-- [Socket](socket.md): .
-- [Testing](testing.md): .
-- [Unix](unix.md): .
-- [Vim](vim.md): .
+- [Angular](angular.md).
+- [Articulos](articulos.md).
+- [Assembler](assembler.md).
+- [Atajos](atajos.md).
+- [Bash](bash.md).
+- [Compiladores](compiladores.md).
+- [Css](css.md).
+- [Cursos](cursos.md).
+- [C y cpp](c_y_cpp.md).
+- [Datos](datos.md).
+- [Deploy](deploy.md).
+- [Diseño](diseño.md).
+- [Docker](docker.md).
+- [Documentacion](documentacion.md).
+- [Frontend](frontend.md).
+- [Game dev](game_dev.md).
+- [Git](git.md).
+- [Graficos](graficos.md).
+- [Haskell](haskell.md).
+- [Html](html.md).
+- [Java](java.md).
+- [Javascript](javascript.md).
+- [Jquery](jquery.md).
+- [Latex](latex.md).
+- [Libros](libros.md).
+- [Oop](oop.md).
+- [Python](python.md).
+- [Recursos](recursos.md).
+- [Sistemas operativos](sistemas_operativos.md).
+- [Sitios](sitios.md).
+- [Socket](socket.md).
+- [Testing](testing.md).
+- [Unix](unix.md).
+- [Vim](vim.md).
