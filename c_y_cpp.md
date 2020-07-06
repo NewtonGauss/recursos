@@ -1,28 +1,28 @@
 # C y cpp
 
-- [Tutoriales de SDL](http://lazyfoo.net/SDL_tutorials/lesson01/index.php): tutoriales de SDL, una biblioteca de gráficos para C++ para varias plataformas.
-- [Learn OpenGL](https://learnopengl.com/Introduction): curso de OpenGL en C++ que va desde lo básico hasta temas avanzados. Tiene un diseño muy amigable.
-- [OpenGL programming guide](http://www.glprogramming.com/red/about.html): pagina/libro online (no muy amigable) exageradamente completa sobre la programación de gráficos en C/C++ con OpenGL.
+- [10 mandamientos para la programación en C](http://www.lysator.liu.se/c/ten-commandments.html): 10 puntos sobre la programación en C y buenas prácticas a seguir.
+- [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
+- [C FAQ](http://c-faq.com/): preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador.
+- [C interfaces and implementation](https://sites.google.com/site/cinterfacesimplementations/): libro que habla sobre arquitectura y software reutilizable en el lenguaje de C. Escirto por Hanson.
 - [C++ game development - Siddharth Shekar](https://www.amazon.com/Game-Development-Example-graphics-programming/dp/1789535301/khongroup-20): libro sobre desarrollo de juegos en C++ y sobre el desarrollo de un motor de juegos utilizando SFML y OpenGL para los gráficos.
-- [Patrones de diseño en C](https://leanpub.com/patternsinc): libro escrito por Adam Tornhill.
-- [Opciones GCC](http://tigcc.ticalc.org/doc/comopts.html): opciones para la herramienta de línea de comandos GCC.
-- [Quick guide GDB](https://beej.us/guide/bggdb/): guía para usar gdb en la línea de comandos.
-- [Network Programming in C](https://beej.us/guide/bgnet/): socket Programming en C.
-- [Unix Interprocess Comunication](https://beej.us/guide/bgipc/): guía de comunicación IPC en Unix.
-- [The Art of Unix Programming - Eric S. Raymond](https://nakamotoinstitute.org/static/docs/taoup.pdf): libro sobre programación en UNIX.
-- [OSDev](https://wiki.osdev.org/Main_Page): wiki dedicada al desarrollo de sistemas operativos. Más de 650 artículos.
-- [OS-Tutorial](https://github.com/cfenollosa/os-tutorial): tutorial sobre como construir un sistema operativo simple desde cero. La explicación se da mediante distintos READMEs de github.
-- [Little Book](https://littleosbook.github.io/): libro sobre el desarrollo de un sistema operativo.
-- [Programación Bluetooth](https://people.csail.mit.edu/albert/bluez-intro/index.html): programación Bluetooth en python y en C.
+- [Extending Python](https://docs.python.org/3/extending/index.html#extending-index): como extender python usando C o C++ para lograr una mejor performance en algunos procesos.
 - [Haskell para programadores C](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers): guía de Haskell enfocada para programadores con conocimiento de la programación estructurada.
-- [The Unix Programming Enviroment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X): libro icónico sobre la programación en el sistema operativo UNIX y su filosofía, de buen uso para aprender pedacitos de C relativamente avanzado. Escrito por Brian Kernighan y Rob Pike.
+- [LEX y YACC](http://dinosaur.compilertools.net/): página con mucho material referido al armado de parsers y compiladores.
+- [Learn OpenGL](https://learnopengl.com/Introduction): curso de OpenGL en C++ que va desde lo básico hasta temas avanzados. Tiene un diseño muy amigable.
+- [Little Book](https://littleosbook.github.io/): libro sobre el desarrollo de un sistema operativo.
+- [Network Programming in C](https://beej.us/guide/bgnet/): socket Programming en C.
+- [OS-Tutorial](https://github.com/cfenollosa/os-tutorial): tutorial sobre como construir un sistema operativo simple desde cero. La explicación se da mediante distintos READMEs de github.
+- [OSDev](https://wiki.osdev.org/Main_Page): wiki dedicada al desarrollo de sistemas operativos. Más de 650 artículos.
+- [Opciones GCC](http://tigcc.ticalc.org/doc/comopts.html): opciones para la herramienta de línea de comandos GCC.
+- [OpenGL programming guide](http://www.glprogramming.com/red/about.html): pagina/libro online (no muy amigable) exageradamente completa sobre la programación de gráficos en C/C++ con OpenGL.
+- [Patrones de diseño en C](https://leanpub.com/patternsinc): libro escrito por Adam Tornhill.
+- [Programación Bluetooth](https://people.csail.mit.edu/albert/bluez-intro/index.html): programación Bluetooth en python y en C.
+- [Quick guide GDB](https://beej.us/guide/bggdb/): guía para usar gdb en la línea de comandos.
 - [Setjmp](https://en.wikipedia.org/wiki/Setjmp.h): una forma interesante de tratar los errores en C, es decir, una especie de mecanismo de manejador de excepciones.
 - [Splint](http://splint.org/): un linter de C que permite chequear problemas de seguridad y errores de programación antes de compilar..
-- [Extending Python](https://docs.python.org/3/extending/index.html#extending-index): como extender python usando C o C++ para lograr una mejor performance en algunos procesos.
-- [Advanced programming in the UNIX environment](http://www.kohala.com/start/apue.html): libro de Richard Stevens sobre programación avanzada en entornos UNIX con C. Explica como hacer programas simples para el shell entre otras cosas.
+- [The Art of Unix Programming - Eric S. Raymond](https://nakamotoinstitute.org/static/docs/taoup.pdf): libro sobre programación en UNIX.
+- [The Unix Programming Enviroment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X): libro icónico sobre la programación en el sistema operativo UNIX y su filosofía, de buen uso para aprender pedacitos de C relativamente avanzado. Escrito por Brian Kernighan y Rob Pike.
+- [Tutoriales de SDL](http://lazyfoo.net/SDL_tutorials/lesson01/index.php): tutoriales de SDL, una biblioteca de gráficos para C++ para varias plataformas.
 - [UNIX network programming 1](http://www.kohala.com/start/unpv12e.html): programación socket en UNIX y C. Texto introductorio. Escrito por Richard Stevens.
 - [UNIX network programming 2](http://www.kohala.com/start/unpv22e/unpv22e.html): segunda parte del libro de Stevens. Habla sobre la comunicación interproceso de UNIX.
-- [10 mandamientos para la programación en C](http://www.lysator.liu.se/c/ten-commandments.html): 10 puntos sobre la programación en C y buenas prácticas a seguir.
-- [LEX y YACC](http://dinosaur.compilertools.net/): página con mucho material referido al armado de parsers y compiladores.
-- [C interfaces and implementation](https://sites.google.com/site/cinterfacesimplementations/): libro que habla sobre arquitectura y software reutilizable en el lenguaje de C. Escirto por Hanson.
-- [C FAQ](http://c-faq.com/): preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador.
+- [Unix Interprocess Comunication](https://beej.us/guide/bgipc/): guía de comunicación IPC en Unix.
