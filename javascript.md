@@ -2,8 +2,8 @@
 
 - [CTags Javascript](https://medium.com/adorableio/modern-javascript-ctags-configuration-199884dbcc1): configurar ctags para usarlo en javascript.
 - [FreeCodeCamp](https://www.freecodecamp.org/learn): una pagina con contenido educativo sobre las tecnologías web como NodeJs, Javascript, HTML, CSS. Tienen unos cuantos "cursos" que van desde lenguajes hasta distintas bibliotecas como Sass, JQuery o Bootstrap.
-- [JSDoc](https://jsdoc.app/): Generador de documentación para JavasCript.
 - [Javascript y Vim](https://freshman.tech/vim-javascript/): integración de Javascript en Vim usando Prettier, ESLint, CTags y FZF.
+- [JSDoc](https://jsdoc.app/): generador de documentación para JavasCript.
 - [Patrones de diseño en Javascript](https://addyosmani.com/resources/essentialjsdesignpatterns/book/): un libro online de patrones de diseño para javascript.
 - [Promises - AwesomeList](https://github.com/wbinnssmith/awesome-promises#readme): una awesomeList de `Promise` en javascript.
 - [Tutoriales MDN](https://developer.mozilla.org/es/docs/Web/Tutoriales): tutoriales de frontend de Mozilla. Se trata de algunos tutoriales originales de Mozilla y de otros tutoriales de otras páginas.
