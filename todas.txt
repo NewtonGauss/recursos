@@ -12,13 +12,6 @@ frontend, cursos, javascript, jquery, html, css
 
 %%
 
-WebSocket
-protocolo de socket utilizado en Javascript con ejemplos de uso
-https://javascript.info/websocket
-javascript, socket
-
-%%
-
 Tutoriales MDN
 tutoriales de frontend de Mozilla. Se trata de algunos tutoriales originales de Mozilla y de otros tutoriales de otras páginas
 https://developer.mozilla.org/es/docs/Web/Tutoriales
@@ -103,13 +96,6 @@ libros, cursos, recursos
 
 %%
 
-IT eBooks
-página con un montón de libros de informática con uso autorizado de lectura personal
-https://it-ebooks.info/
-libros
-
-%%
-
 Programming in the 21 century
 blog que ya no sube nuevo contenido cuenta con un archivo muy extenso. Habla de programación de videojuegos y tiene artículos con opiniones interesantes. No tiene contenido de programación orientada a objetos, sino que lo interesante es ver como resuelve los problemas con otros paradigmas
 https://prog21.dadgum.com/
@@ -135,13 +121,6 @@ Setup de vim, pandoc y make
 un articulo sobre como escribir un libro con markdown, pandoc, usando vim como editor de texto y compilandolo con make
 https://keleshev.com/my-book-writing-setup/
 articulos, vim
-
-%%
-
-Comparación de editores de latex
-una comparación de varios editores de latex hecha en wikipedia con unas 3 o 4 tablas
-https://en.wikipedia.org/wiki/Comparison_of_TeX_editors
-latex
 
 %%
 
@@ -190,7 +169,7 @@ c y cpp, unix
 Network Programming in C
 socket Programming en C
 https://beej.us/guide/bgnet/
-c y cpp, unix, socket, libros
+c y cpp, unix, libros
 
 %%
 
@@ -373,13 +352,6 @@ Design Patterns de Sourcemaking
 una guía práctica sobre patrones de diseño con ejemplos simples y recordables
 https://sourcemaking.com/design_patterns
 oop, diseño
-
-%%
-
-Guía de usuario de JUnit5
-una referencia (o documentación) para escribir tests unitarios de JUnit
-https://junit.org/junit5/docs/current/user-guide/
-java, testing
 
 %%
 
