@@ -376,3 +376,52 @@ game dev
 
 %%
 
+Game programmer study path
+un roadmap de programación de juegos. Va desde lo básico hasta lo más complejo como creación de motores de juegos. Está basado en libros
+https://github.com/miloyip/game-programmer
+game dev
+
+%%
+
+Developer roadmap
+varios roadmaps de desarrollo (mayormente web). Hay desarrollo frontend, desarrollo backend, devops, etcétera. Está basado en temas
+https://github.com/kamranahmedse/developer-roadmap
+recursos, frontend, backend
+
+%%
+
+Project based learning
+una lista de links hacia tutoriales de construcción y aprendizaje basado en proyectos
+https://github.com/tuvtran/project-based-learning
+recursos
+
+%%
+
+Go Advocates
+material de aprendizaje para el lenguaje Go
+https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit
+go, recursos
+
+%%
+
+Introduction to UNIX by Oliver Elliot
+introducción excelente a los comandos UNIX y a los programas que hoy se encuentran en entornos UNIX-like. Desde comandos básicos hasta herramientas un poco más avanzadas como awk, vim, perl, python, etcétera
+http://oliverelliott.org/article/computing/tut_unix/
+unix, bash
+
+%%
+
+Design Patterns de Refactoring.guru
+una descripción y explicación breve de patrones de diseño con ejemplos e imagenes
+https://refactoring.guru/design-patterns
+diseño, oop
+
+%%
+
+Deep C
+presentación de C y C++ enfocada en conocimiento profundo del lenguaje tales como optimización del compilador, uso de memoria, estándares, etcétera
+https://www.slideshare.net/olvemaudal/deep-c
+c y cpp
+
+%%
+

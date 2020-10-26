@@ -1,5 +1,6 @@
 # Game dev
 
+- [Game programmer study path](https://github.com/miloyip/game-programmer): un roadmap de programación de juegos. Va desde lo básico hasta lo más complejo como creación de motores de juegos. Está basado en libros.
 - [Learn OpenGL](https://learnopengl.com/Introduction): curso de OpenGL en C++ que va desde lo básico hasta temas avanzados. Tiene un diseño muy amigable.
 - [Maze generation](https://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap): artículo sobre distintos algoritmos de generación de mazmorras (o laberintos).
 - [Nand to Tetris](https://www.nand2tetris.org/): curso que va desde assembler hasta llegar a tener un tetris andando.

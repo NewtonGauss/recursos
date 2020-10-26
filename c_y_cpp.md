@@ -1,6 +1,7 @@
 # C y cpp
 
 - [C FAQ](http://c-faq.com/): preguntas frecuentes sobre C. No es lo que suena, tiene mucho material interesante para indagar cuando no se encuentran respuestas con un buscador.
+- [Deep C](https://www.slideshare.net/olvemaudal/deep-c): presentación de C y C++ enfocada en conocimiento profundo del lenguaje tales como optimización del compilador, uso de memoria, estándares, etcétera.
 - [Extending Python](https://docs.python.org/3/extending/index.html#extending-index): como extender python usando C o C++ para lograr una mejor performance en algunos procesos.
 - [Haskell para programadores C](https://wiki.haskell.org/Haskell_Tutorial_for_C_Programmers): guía de Haskell enfocada para programadores con conocimiento de la programación estructurada.
 - [Learn OpenGL](https://learnopengl.com/Introduction): curso de OpenGL en C++ que va desde lo básico hasta temas avanzados. Tiene un diseño muy amigable.

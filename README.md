@@ -2,6 +2,7 @@
 
 - [Articulos](articulos.md).
 - [Assembler](assembler.md).
+- [Backend](backend.md).
 - [Bash](bash.md).
 - [C y cpp](c_y_cpp.md).
 - [Compiladores](compiladores.md).
@@ -12,20 +13,17 @@
 - [Frontend](frontend.md).
 - [Game dev](game_dev.md).
 - [Git](git.md).
+- [Go](go.md).
 - [Graficos](graficos.md).
 - [Haskell](haskell.md).
 - [Html](html.md).
-- [Java](java.md).
 - [Javascript](javascript.md).
 - [Jquery](jquery.md).
-- [Latex](latex.md).
 - [Libros](libros.md).
 - [Oop](oop.md).
 - [Python](python.md).
 - [Recursos](recursos.md).
 - [Sistemas operativos](sistemas_operativos.md).
 - [Sitios](sitios.md).
-- [Socket](socket.md).
-- [Testing](testing.md).
 - [Unix](unix.md).
 - [Vim](vim.md).
